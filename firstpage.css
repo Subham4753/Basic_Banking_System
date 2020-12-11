@@ -1,0 +1,59 @@
+img{
+    width: 100%;
+    z-index: -1;
+    
+    position: absolute;
+    height: 100%;
+    background-size: cover;
+    
+}
+div{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    font-size: xx-large;
+    text-decoration: none;
+}
+.btn{
+    cursor: pointer;
+    background-color :teal;
+    border :  2px solid black;
+    padding: 10px;
+    border-radius: 12px;
+    width: 100px;
+    color: white;
+    opacity: 0.7;
+    font-size: large;
+    box-shadow:inset 0px -3px 7px 0px #29bbff;
+}
+.btn:hover{
+  height: 50px;
+  background-color: rgb(132, 125, 199);
+  width: 120px;
+  opacity: 1;
+  color: black;
+}
+.secondpg{
+    padding: 17px;
+    font-size: large;
+    border-radius: 12px;
+    cursor: pointer;
+    background-color :teal;
+    border :   2px solid black;
+    width: 200px;
+    color: white;
+    opacity: 0.7;
+    margin: 20px auto;
+    box-shadow:inset 0px -3px 7px 0px #29bbff;
+}
+.secondpg:hover{
+    height: 50px;
+  background-color:rgb(132, 125, 199);
+  width: 220px;
+  opacity: 1;
+  height: 65px;
+  color: black;
+
+}
