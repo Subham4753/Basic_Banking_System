@@ -29,11 +29,11 @@ $result=mysqli_query($con, $q);
     
 </head>
 <body>
-<img src="bank8.jpg" alt="bank">
+<img src="bank10.jpg" alt="bank">
 
 <br>
 <a href="index.php"> 
- <input type="image" src="home.png" class="home"/>
+ <input type="image" src="home.jpeg" class="home"/>
  </a>
  <br>
  <h1>Transfer Amount</h1>
