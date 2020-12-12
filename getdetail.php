@@ -26,10 +26,10 @@ $row_count=mysqli_num_rows($result);
     <link rel="stylesheet" href="Table.css">
 </head>
 <body>
-<img src="bank8.jpg" alt="bank">
+<img src="bank10.jpg" alt="bank">
   <br>
  <a href="index.php"> 
- <input type="image" src="home.png" class="home"/>
+ <input type="image" src="home.jpeg" class="home"/>
 
  </a>
 
