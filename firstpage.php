@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="firstpage.css">
 </head>
 <body>
-    <img src="bank8.jpg" alt="bank">
+    <img src="bank10.jpg" alt="bank">
     
     <div>
         <h1>Sparks Foundation Internship Project</h1>
